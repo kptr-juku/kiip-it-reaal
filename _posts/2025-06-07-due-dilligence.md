@@ -65,7 +65,7 @@ Invest Confidently. Build Resiliently.
 ## Ready to Audit Smarter?
 
 [📅 Schedule a Free Consultation](#)  
-[📄 View Sample Report](/sample-audit-report/)
+[📄 View Sample Report]({{ site.baseurl }}/sample-audit-report/)
 
 ---
 
