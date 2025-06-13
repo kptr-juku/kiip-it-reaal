@@ -3,16 +3,19 @@
 #
 title: Kiip IT Reaal
 author:
-  name: kptr-juku
+  name: Sven Kautlenbach
   email: juku.foobar@icloud.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Kiip IT Reaal. Kiip IT Raal. Aus pasavaba arvutussüsteemide arendamine.
+  Kiip IT Reaal. Kiip-IT-Raal. "Lets keep it real" arvutussüsteemide arendamine.
   Inimeselt inimesele, inimeselt arvutile - elektroonika, programmeerimine,
   konsultatsioon, ettevõtte auditeerimine.
-  Kiip ja Pillid OÜ 
+
+  Kiip ja Pillid OÜ
+
+  Version 0.1
 
 
 # Build settings
