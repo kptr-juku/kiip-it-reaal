@@ -4,6 +4,8 @@ title: Sample Technical Audit Report
 permalink: /sample-audit-report/
 ---
 
+*NB! Actual report will be much more dense and detailed, this is for simple example purpose only.*
+
 # Technical Audit Report
 
 **Client**: *Wisefy 24/7*  
@@ -108,4 +110,4 @@ Wisefy 24/7 is well-positioned technically but needs to harden its practices as 
 There is some cap to cut development workforce to decrease salary pressure while making team chemistry better. 
 
 I see the CEO as risk, since the product is purely technical with embedded/electronics components, but the high lever processes are run like a regular App development company.
-The general direction of the company seems to be reasctive not proactive.
+The general direction of the company seems to be reactive not proactive.

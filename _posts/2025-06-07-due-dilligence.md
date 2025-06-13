@@ -32,9 +32,6 @@ Invest Confidently. Build Resiliently.
 - **Startup Founders**\
   Prepare for funding rounds or acquisition with confidence.
 
-- **M&A Advisors**  
-  Assess technical risk before closing the deal.
-
 - **CTOs & Engineering Leads**  
   Benchmark your team’s practices and highlight strengths.
 
@@ -62,13 +59,14 @@ Invest Confidently. Build Resiliently.
   - Risk levels and technical red flags
   - Actionable recommendations
   - A non-technical summary for founders or investors
+  - [📄 View Sample Report]({{ site.baseurl }}/sample-audit-report/)
 - Optional **debrief session** with the team or stakeholders
 
 ---
 
 ## Why Work With Me
 
-- 15+ years of hands-on experience in **software, systems, and electronics**
+- 15+ years of hands-on experience in **software, computer systems and electronics**
 - Real-world knowledge across **startups and scale-ups** (worked in 6 very different companies)
 - No vendor fluff — just independent, fast, and practical insights
 - I know that there is no universal process that works for every case. One has to develop processes that solve actual business problems in most efficient way for a company
@@ -77,12 +75,12 @@ Invest Confidently. Build Resiliently.
 
 ## Ready to Audit Smarter?
 
-One full working day on-site, interviewing people and auditing.
-Base rate of 634 euros + VAT.
+**Base rate**: **€634<sup>+VAT</sup>**\
+One full working day on-site, including interviews and hands-on auditing.\
 [📄 View Sample Report]({{ site.baseurl }}/sample-audit-report/)
 
-Use the no cost consultation to further refine information or proposed service and cost.
-[📅 Schedule a Free Consultation](#)
+Use the no-cost consultation to refine the scope, details, or pricing.\
+[📅 Schedule a Free Consultation](mailto:juku.foobar@icloud.com)
 
 ---
 
