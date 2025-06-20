@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Kiip IT Reaal provide hands-on expertise in electronics, software, and systems audits.
+Kiip IT Reaal provides hands-on expertise in electronics, software, and systems audits.
 
 **Services include**:
 - Embedded software development
@@ -26,10 +26,10 @@ I started as a regular folk, with no mainstream computer programming approach:
 My background/roots:
 - Building speakers(woofers)
 - Simple electronics - audio setups, connecting motors, lights, formating Windows etc.
-- Interested in math and physics but not for grades
+- Interested in math and physics
 - Fishing
 - Sports
-- Graduated high school at "Regular Joe" level
+- Graduated high school at "Regular Joe" level - no excellent grades
 
 This has enabled me to embrace the craft and stay humble. Often people act braggadocious and cocky when talking technology or programming.
 Unfortunately same attitude can be seen in classes and lectures. There was a feeling that this approach does not suit "regular folks", so I adapted
