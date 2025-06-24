@@ -4,7 +4,7 @@ title: Technical Due Diligence & Engineering Audits
 description: Independent technical audits for startups, investors, and acquirers — covering code, architecture, DevOps, and team maturity.
 ---
 
-Gain deep insights into a startup/company's technical health — from code quality and architecture to CI/CD pipelines and scalability — before you commit time, money, or growth.
+Gain deep insights into a startup/company's technical health — from code quality and architecture to CI/CD pipelines, scalability, and team chemistry — before you commit time, money, or growth.
 
 Independent Tech Audits for Startups, Investors & Acquirers
 
